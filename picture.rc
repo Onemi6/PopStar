@@ -1,0 +1,40 @@
+#include<windows.h>
+#include"picture.h"
+
+
+IDB_BITMAP0 BITMAP "back.bmp"
+
+IDB_BITMAP1 BITMAP "star1.bmp"
+IDB_BITMAP2 BITMAP "star2.bmp"
+IDB_BITMAP3 BITMAP "star3.bmp"
+IDB_BITMAP4 BITMAP "star4.bmp"
+IDB_BITMAP5 BITMAP "star5.bmp"
+
+IDB_BITMAP6 BITMAP "PopStar.bmp"
+IDB_BITMAP7 BITMAP "StartGame.bmp"
+IDB_BITMAP8 BITMAP "GameOver.bmp"
+IDB_BITMAP9 BITMAP "City.bmp"
+
+IDB_BITMAP10 BITMAP "Help.bmp"
+IDB_BITMAP11 BITMAP "About.bmp"
+IDB_BITMAP12 BITMAP "Return.bmp"
+
+IDB_BITMAP13 BITMAP "snow.bmp"
+
+
+IDB_BITMAP14 BITMAP "cleardata.bmp"
+
+IDB_BITMAP15 BITMAP "pause.bmp"
+IDB_BITMAP16 BITMAP "continue.bmp"
+
+
+IDB_BITMAP21 BITMAP "SmallStar1.bmp"
+IDB_BITMAP22 BITMAP "SmallStar2.bmp"
+IDB_BITMAP23 BITMAP "SmallStar3.bmp"
+IDB_BITMAP24 BITMAP "SmallStar4.bmp"
+IDB_BITMAP25 BITMAP "SmallStar5.bmp"
+
+
+
+
+
